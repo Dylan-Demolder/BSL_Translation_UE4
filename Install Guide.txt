@@ -1,0 +1,23 @@
+1. Install Unreal Engine 4.27.2
+
+2. Create new project
+	Games,
+		Blank,
+			leave all settings as default,
+			Call project "TYP"
+			Create Project,
+	
+2. Close the application
+
+3. Drag all contents from "Files.zip" into the project directory
+		replace all content
+			reopen the project (can open with TYP.uproject")
+				Click "update project" and enable the installed plugins 
+				
+4. Restart the application using the "restart now" button.
+
+5. Press the "Play" button
+
+6. Press "R" to record a gesture
+
+7. Press "4" or "5" to navigate through the alphabet, down and up respectively (1=A....26=Z) 
