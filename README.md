@@ -32,3 +32,5 @@
 9. Press ``4`` or ``5`` to navigate through the alphabet, down and up respectively (1=A....26=Z) 
 
 [![Letter D](https://github.com/Dylan-Demolder/BSL_Translation_UE4/blob/main/assets/LetterD.png "Letter D")](https://github.com/Dylan-Demolder/BSL_Translation_UE4/blob/main/assets/LetterD.png "Letter D")
+
+Please contact me directly if you wish to see the content of ``Report-Protected.pdf``
