@@ -1,6 +1,6 @@
-##BSL Translation UnrealEngine 4 - with the LeapMotion Controller
+## BSL Translation UnrealEngine 4 - with the LeapMotion Controller
 
-### Installation instructions
+**Installation instructions**
 1. Install Unreal Engine 4.27.2
 
 2. Create new project
