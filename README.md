@@ -32,6 +32,6 @@
 
 9. Press ``4`` or ``5`` to navigate through the alphabet, down and up respectively (1=A....26=Z) 
 
-![GIF Example](https://media.discordapp.net/attachments/841979825925128242/986320418531065896/Signs.gif)
+![GIF Example](assets/Signs.gif)
 
 Please contact me directly if you wish to see the content of ``Report-Protected.pdf``
