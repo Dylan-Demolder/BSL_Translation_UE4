@@ -34,4 +34,3 @@
 
 ![GIF Example](assets/Signs.gif)
 
-Please contact me directly if you wish to see the content of ``Report-Protected.pdf``
